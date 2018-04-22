@@ -10,10 +10,15 @@ https://www.davidbegin.com/packer-and-terraform/
 #
 And Linux Academy Giuseppe Borgese blog articles:
 How to: Introduction to Terraform Modules
+#
 https://linuxacademy.com/howtoguides/posts/show/topic/12369-how-to-introduction-to-terraform-modules
-
+#
 https://linuxacademy.com/cp/socialize/index/type/community_post/id/12369
 #
 A complete AWS environment with Terraform
+#
 https://linuxacademy.com/howtoguides/posts/show/topic/13922 :: https://github.com/giuseppeborgese/a-complete-aws-environment-with-terraform
 
+Tools:
+Atom + Terraform language
+https://github.com/Ghttps://github.com/GiantToast/language-terraformiantToast/language-terraform
