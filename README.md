@@ -1,2 +1,2 @@
 # Hashi-AWS
-AWS project built using Hashi tools
+AWS project built using Hashi tools ver 1
