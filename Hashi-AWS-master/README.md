@@ -18,6 +18,8 @@ https://linuxacademy.com/cp/socialize/index/type/community_post/id/12369
 A complete AWS environment with Terraform
 #
 https://linuxacademy.com/howtoguides/posts/show/topic/13922 :: https://github.com/giuseppeborgese/a-complete-aws-environment-with-terraform
+#
+https://youtu.be/GjFVIDqDjA4
 
 Tools:
 Atom + Terraform language
