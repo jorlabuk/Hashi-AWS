@@ -2,10 +2,6 @@
 
 mv /tmp/vimrc /home/ubuntu/.vimrc
 
-#sudo apt-get install -y ruby-full build-essential
-#sudo apt-get install -y rubygems
-#sudo gem install lolcat
-
 sudo apt-get update
 
 #installing LAMP

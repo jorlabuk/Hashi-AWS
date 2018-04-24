@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+LAMP_ip=$(terraform output --json | jq -r ".LAMP_public_ip.value")
+echo "SSHing onto LAMP located at: $LAMP_ip"
+ssh -A "ubuntu@$LAMP_ip"
